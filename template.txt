@@ -1,0 +1,4 @@
+- {Authors} ({Date issued})
+{Title}
+{URL}
+{Book} {Journal} {Volume} {Issue}

@@ -1,0 +1,29 @@
+Authors    
+Title    
+Date issued    
+URI    
+URL    
+DOI    
+Number of authors    
+ISBN    
+Publisher    
+Publisher place    
+Type    
+WOS identifier    
+Scopus identifier    
+Pubmed identifier    
+Journal    
+Volume    
+Issue    
+Edition    
+Book    
+Abstract    
+First pagina    
+Last pagina    
+Language    
+Validation status    
+Fulltext availability    
+Fulltext validated    
+Fulltext not validated    
+Citation    
+ISMN identifier
